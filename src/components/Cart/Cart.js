@@ -319,7 +319,7 @@ class Cart extends Component {
     const { className } = this.state;
     let showFreeBonus = true;
     const gatsbyStickerPackID =
-      'Z2lkOi8vc2hvcGlmeS9DaGVja291dExpbmVJdGVtL2I1ZGY0NjRmMWQxYWQxM2MzMzJjYmQ0MjMyZDczZGE3P2NoZWNrb3V0PTY1NjU3NDMxMjk2MTRiMmRjZjc4MDIzYmRlYzA4MTM2';
+      'Z2lkOi8vc2hvcGlmeS9DaGVja291dExpbmVJdGVtLzEyMjM5NzcyODc2ODg4MD9jaGVja291dD00YWI5OGRmNDQ0ZGE2NTA5ZjdjYjI4MDI4NzBkMDBhNQ==';
 
     return (
       <StoreContext.Consumer>
